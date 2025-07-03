@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(240, 252, 247);
+    box-shadow: inset 0px -120px 100px -10px rgba(145, 150, 167, 0.7);
+    height: 1000px;
+}
+/*.container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px 10px;
+  background-color:#e9e6f3;
+  font-family: "trebuchet MS", arial, helvetica, sans-serif;
+  opacity: 0.9;
+  left: auto;
+  right: auto;
+  height: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  box-shadow: inset 0px -120px 100px -10px rgba(145, 150, 167, 0.7);
+} */
+.topnav {
+    overflow: hidden;
+    background-color: rgb(243, 237, 184);
+}
+.topnav a{
+    float: left;
+    color: cadetblue;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.topnav a:hover{
+    background-color: coral;
+    color: rgb(241, 203, 203);
+}
+.pic1{
+    border: 1px solid rgb(224, 207, 207);
+    border-radius: 4px;
+    padding: 5px;
+    width: 250px;
+    margin: 0 auto;
+}
+/* Tambahkan di akhir file CSS */
+.footer {
+    background-color: rgb(243, 237, 184);
+    padding: 30px 0;
+    color: #555;
+    border-top: 1px solid rgba(0,0,0,0.1);
+}
+.footer p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+.footer h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Perubahan untuk layout */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex: 1;
+}
