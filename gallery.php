@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<php lang="en_US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="css/style.css"/>
+		<script src="js/script.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>Coba</title>
+    <body>
+        <div class="main-content">
+        <div class="topnav">
+            <a href="index.php"><i class="fas fa-home">Home</i></a>
+            <a href="tentang.php"><i class="fas fa-info-circle"></i>Tentang</a>
+            <a href="produk1.php"><i class="fas fa-info-circle"></i>Produk</a>
+            <a href="gallery.php"><i class="fas fa-images"></i>Gallery</a>
+            <a href="kontak.php"><i class="fas fa-envelope"></i>Kontak</a>
+            <a href="login.php"><i class="fas fa-key"></i>Login</a>
+        </div>
+        <section class="hero">
+        <div class="container">
+            <h1>Selamat Datang di Website Kami</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi provident odio iste sint, 
+            distinctio suscipit. Cum exercitationem minus fuga, doloribus optio eligendi 
+            excepturi placeat veritatis. Alias nihil earum adipisci atque.</p>
+            <button class="btn btn-primary">Pelajari Lebih Lanjut</button>
+        </div>
+
+    </section>
+        <h1 class="aaaa">Selamat Datang di Website Kami</h1>
+        <p class="bbbb">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi provident odio iste sint, 
+        distinctio suscipit. Cum exercitationem minus fuga, doloribus optio eligendi 
+        excepturi placeat veritatis. Alias nihil earum adipisci atque.</p>
+</div><br>
+<br>
+            <center><div class="video">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/-UbpcAqRowU?si=MSLcvugwdBCV59g3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div></center>
+            <br>
+<br>
+            <center><div class="pic">
+                <img src="images/assets/1.jpg" class="pic1">
+                <img src="images/assets/2.jpg" class="pic1">
+                <img src="pic/2.jpg" class="pic1">
+                <img src="pic/1.jpg" class="pic1">
+            </div></center>
+            <br>
+<footer class="footer">
+        <div class="row">
+            <div class="col-md-4">
+                <h5>Tentang Kami</h5>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+                    Cumque porro provident quae totam adipisci. 
+                    Consectetur, voluptatum, quia illo quam tenetur totam nulla quibusdam magnam iure 
+                    maiores obcaecati quod voluptas labore!</p>
+            </div>
+            <div class="col-md-4">
+                <h5>Kontak</h5>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+                Cumque porro provident quae totam adipisci. 
+                Consectetur, voluptatum, quia illo quam tenetur totam nulla quibusdam magnam iure 
+                maiores obcaecati quod voluptas labore!</p>
+            </div>
+            <div class="col-md-4">
+                <h5>Sesuatu</h5>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem, 
+                eveniet, atque est impedit hic nisi dolorem et minima dignissimos dolor voluptatem quia. 
+                Aspernatur praesentium a, maxime quidem est inventore odit!</p>
+            </div>
+            </div>
+            <hr>
+            <div class="text-center">
+                DADADADADA
+            </div>
+        </div>
+    </footer>
+</body>
+</head>
+</html>
